@@ -1,6 +1,6 @@
 {
     "name": "codelf",
-    "displayName": "codelf",
+    "displayName": "Codelf",
     "description": "Organize your GitHub stars and repositories.Search over projects from GitHub, Bitbucket, Google Code, Codeplex, Sourceforge, Fedora Project to find real-world usage variable names.",
     "version": "0.0.1",
     "publisher": "unbug",
@@ -11,14 +11,38 @@
         "Other"
     ],
     "activationEvents": [
-        "onCommand:extension.sayHello"
+        "onCommand:extension.codelf"
     ],
     "main": "./extension",
+    "author": {
+        "name": "unbug",
+        "url": "https://github.com/unbug"
+    },
+    "icon": "resources/codelf_logo.png",
+    "homepage": "http://unbug.github.io/codelf/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/unbug/vscode-codelf.git"
+    },
+    "bugs": {
+        "url": "https://github.com/unbug/vscode-codelf/issues"
+    },
     "contributes": {
-        "commands": [{
-            "command": "extension.sayHello",
-            "title": "Hello World"
-        }]
+        "menus": {
+            "editor/context": [
+                {
+                    "when": "editorHasSelection",
+                    "command": "extension.codelf",
+                    "group": "navigation"
+                }
+            ]
+        },
+        "commands": [
+            {
+                "command": "extension.codelf",
+                "title": "Codelf"
+            }
+        ]
     },
     "scripts": {
         "postinstall": "node ./node_modules/vscode/bin/install",

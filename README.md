@@ -1,65 +1,40 @@
-# vscode-codelf README
+  <img src="http://unbug.github.io/codelf/resources/images/codelf_logo.png" width="80">
 
-This is the README for your extension "vscode-codelf". After writing up a brief description, we recommend including the following sections.
+Codelf
+=================
+Best GitHub stars,repositories tagger and organizer.Search over projects from GitHub, Bitbucket, Google Code, Codeplex, Sourceforge, Fedora Project to find real-world usage variable names.
 
-## Features
+  >There are only two hard things in Computer Science: cache invalidation and naming things.-- Phil Karlton
+    ![twohardtings](http://unbug.github.io/codelf/resources/images/twohardtings.jpg)
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
 
-For example if there is an image subfolder under your extension project workspace:
+Usage
+===============
+  1. Select text, right-click and select "Codelf".
 
-\!\[feature X\]\(images/feature-x.png\)
+<img width="408" alt="select" src="https://cloud.githubusercontent.com/assets/799578/26272987/b42087fc-3d58-11e7-9db0-32f60b8ac389.png">
 
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
 
-## Requirements
+Apps && Plugins
+=================
+  * [Codelf for Atom](https://atom.io/packages/codelf)
+  * [Codelf Chrome App](https://chrome.google.com/webstore/detail/codelf-best-github-stars/jnmjaglhmmcplekpfnblniiammmdpaan)
+  * [Codelf for Sublime Text](https://github.com/unbug/codelf)
 
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
 
-## Extension Settings
+Find me
+=================
+  * Twitter [@unbug](https://twitter.com/unbug)
+  * 微博 [@听奏](http://weibo.com/unbug)
 
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
+Videos
+===============
+[![Codelf first look](https://cloud.githubusercontent.com/assets/799578/12520673/e037c0c6-c180-11e5-8342-cb291b98dcab.png)](https://youtu.be/Uqg8HWaa-2c)
 
-For example:
-
-This extension contributes the following settings:
-
-* `myExtension.enable`: enable/disable this extension
-* `myExtension.thing`: set to `blah` to do something
-
-## Known Issues
-
-Calling out known issues can help limit users opening duplicate issues against your extension.
-
-## Release Notes
-
-Users appreciate release notes as you update your extension.
-
-### 1.0.0
-
-Initial release of ...
-
-### 1.0.1
-
-Fixed issue #.
-
-### 1.1.0
-
-Added features X, Y, and Z.
-
------------------------------------------------------------------------------------------------------------
-
-## Working with Markdown
-
-**Note:** You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on OSX or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on OSX or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (OSX) to see a list of Markdown snippets
-
-### For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+Screenshots
+================
+![search1](https://cloud.githubusercontent.com/assets/799578/12498414/5a95d06e-c0dd-11e5-8a38-247e294df7ab.png)
+![search2](https://cloud.githubusercontent.com/assets/799578/12498417/5aaf5ce6-c0dd-11e5-96be-af3900407d51.png)
+![search3](https://cloud.githubusercontent.com/assets/799578/12498416/5a99eff0-c0dd-11e5-8458-1668d72a27ed.png)
+![bnk1](https://cloud.githubusercontent.com/assets/799578/12507895/9945d290-c133-11e5-8bb9-ff5d5dec0cfe.png)
+![bmk2](https://cloud.githubusercontent.com/assets/799578/12507854/5d2d328a-c133-11e5-85eb-d4da1c38a747.png)
