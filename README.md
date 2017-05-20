@@ -5,15 +5,15 @@ Codelf
 Best GitHub stars,repositories tagger and organizer.Search over projects from GitHub, Bitbucket, Google Code, Codeplex, Sourceforge, Fedora Project to find real-world usage variable names.
 
   > There are only two hard things in Computer Science: cache invalidation and naming things.-- Phil Karlton
-    ![twohardtings](http://unbug.github.io/codelf/resources/images/twohardtings.jpg)
+  > 
+  > ![twohardtings](http://unbug.github.io/codelf/resources/images/twohardtings.jpg)
 
 
 Usage
 ===============
   1. Select text, right-click and select "Codelf".
 
-<img width="408" alt="select" src="https://cloud.githubusercontent.com/assets/799578/26272987/b42087fc-3d58-11e7-9db0-32f60b8ac389.png">
-
+<img width="521" alt="select" src="https://cloud.githubusercontent.com/assets/799578/26273099/199ab0b0-3d5b-11e7-9cb6-b48a035b0a1f.png">
 
 Apps && Plugins
 =================
