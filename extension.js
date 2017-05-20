@@ -8,7 +8,7 @@ function openBrowser() {
     if (!selectedText)
         return;
     vscode.commands.executeCommand('vscode.open',
-        vscode.Uri.parse(`http://unbug.github.io/codelf/#${encodeURI(selectedText)}`));
+        vscode.Uri.parse(`https://unbug.github.io/codelf/#${encodeURI(selectedText)}`));
 }
 
 function getSelectedText() {
