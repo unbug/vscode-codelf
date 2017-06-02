@@ -1,8 +1,8 @@
 {
     "name": "codelf",
     "displayName": "Codelf",
-    "description": "Organize your GitHub stars and repositories.Search over projects from GitHub to find real-world usage variable names.",
-    "version": "1.0.0",
+    "description": "Best GitHub stars, repositories tagger and organizer. Search Github, GitLab to find real-world usage variable names..",
+    "version": "2.4.0",
     "publisher": "unbug",
     "engines": {
         "vscode": "^1.12.0"
