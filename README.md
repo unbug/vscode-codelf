@@ -1,4 +1,4 @@
-  <img src="http://unbug.github.io/codelf/resources/images/codelf_logo.png" width="80">
+  <img src="https://unbug.github.io/codelf/resources/images/codelf_logo.png" width="80">
 
 Codelf
 =================
@@ -6,7 +6,7 @@ Best GitHub stars, repositories tagger and organizer. Search over projects from 
 
   > There are only two hard things in Computer Science: cache invalidation and naming things.-- Phil Karlton
   > 
-  > ![twohardtings](http://unbug.github.io/codelf/resources/images/twohardtings.jpg)
+  > ![twohardtings](https://unbug.github.io/codelf/resources/images/twohardtings.jpg)
 
 
 Usage
