@@ -2,7 +2,7 @@
     "name": "codelf",
     "displayName": "Codelf",
     "description": "Best GitHub stars, repositories tagger and organizer. Search Github, GitLab to find real-world usage variable names.",
-    "version": "3.1.0",
+    "version": "10.2.0",
     "publisher": "unbug",
     "engines": {
         "vscode": "^1.12.0"
