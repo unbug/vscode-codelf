@@ -1,14 +1,19 @@
-  <img src="https://unbug.github.io/codelf/resources/images/codelf_logo.png" width="80">
+  <img src="https://user-images.githubusercontent.com/799578/50462941-8075fe80-09c3-11e9-89e7-af0cb7991406.png" width="80">
 
-Codelf
+Codelf(变量命名神器)
 =================
-Best GitHub stars, repositories tagger and organizer. Search over projects from Github, Bitbucket, Google Code, Codeplex, Sourceforge, Fedora Project, GitLab to find real-world usage variable names.
+  Search over projects from Github, Bitbucket, Google Code, Codeplex, Sourceforge, Fedora Project, GitLab to find real-world usage variable names.
+  
+  Also a daily Algorithm Copybook.
+  
+  Also a GitHub stars, repositories tagger and organizer tool.
 
-  > There are only two hard things in Computer Science: cache invalidation and naming things.-- Phil Karlton
-  > 
-  > ![twohardtings](https://unbug.github.io/codelf/resources/images/twohardtings.jpg)
-
-
+  >There are only two hard things in Computer Science: cache invalidation and naming things.-- Phil Karlton
+  >
+  >![twohardtings](https://user-images.githubusercontent.com/799578/50462942-8075fe80-09c3-11e9-9c7f-b38d495b925d.jpg)
+  
+  ![image](https://user-images.githubusercontent.com/799578/51435509-a2595d00-1cb3-11e9-8f4e-85ecbc3a2325.png)
+  
 Usage
 ===============
   1. Select text, right-click and select "Codelf".
@@ -33,8 +38,22 @@ Videos
 
 Screenshots
 ================
-![search1](https://cloud.githubusercontent.com/assets/799578/12498414/5a95d06e-c0dd-11e5-8a38-247e294df7ab.png)
-![search2](https://cloud.githubusercontent.com/assets/799578/12498417/5aaf5ce6-c0dd-11e5-96be-af3900407d51.png)
-![search3](https://cloud.githubusercontent.com/assets/799578/12498416/5a99eff0-c0dd-11e5-8458-1668d72a27ed.png)
+  
+Screenshots
+================
+
+### Search variable
+![image](https://user-images.githubusercontent.com/799578/51435477-f748a380-1cb2-11e9-89df-3ae5d99ed7e6.png)
+
+![image](https://user-images.githubusercontent.com/799578/51435487-1b0be980-1cb3-11e9-9379-58c2ec678a81.png)
+
+### Daily Algorithm Copybook
+
+![image](https://user-images.githubusercontent.com/799578/51435445-71c4f380-1cb2-11e9-87a4-edc54cbe7052.png)
+
+### GitHub stars, repositories tagger and organizer tool
+
 ![bnk1](https://cloud.githubusercontent.com/assets/799578/12507895/9945d290-c133-11e5-8bb9-ff5d5dec0cfe.png)
+
 ![bmk2](https://cloud.githubusercontent.com/assets/799578/12507854/5d2d328a-c133-11e5-85eb-d4da1c38a747.png)
+
